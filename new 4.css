@@ -1,0 +1,148 @@
+
+
+
+.sectioncoba {
+	
+	background-color:#fff;
+	
+}
+.sectioncoba  .ma {
+	background-color :#006699;
+	text-align:center;
+	height:16%;
+	
+}
+.sectionlevel h1 {
+	
+	text-align:center;
+	
+	}
+.sectionlevel ul {
+	margin-left:28%;
+	margin-top:30px;
+}
+.sectionlevel a {
+	background-color:#006699;
+	color:#0d0d0d;
+	padding:14px;
+	padding-left:20px;
+	
+}
+.sectionlevel {
+	width:100%;
+	height:20%;
+	background-color:#e6e6e6;
+	
+	
+}
+ .sectionlevel li {
+	background-color:#006699;
+	display:inline;
+	margin-left:30px;
+
+	
+	
+}
+.sectionfitur h1 {
+	text-align:center;
+	padding-top:20px;
+	font-size:48px;
+}
+.sectionfitur .sectionbagian {
+	margin-top:20px;
+	width:100%;
+	height:60%;
+	
+}
+.sectionfitur .sectionbagian img { margin-top:20px;
+	width:100%;
+	height:72%;
+}
+.sectionfitur .sectionbagianab {
+	float:left;
+	width:340px;
+	height:100%;
+	margin-left:4%;
+	
+}
+*{
+	padding:0;
+	margin:0;
+	text-decoration:none;
+	
+}
+section .sectionfitur {
+	width:100%;
+	height:100%;
+	
+}
+body{
+	background-color:rgba(230,230,230,0.1);
+	overflow:scroll;
+}
+.headerpenguis {
+	width:100%;
+	height:2%;
+	background-color:#006699;
+	margin:0;
+	
+}
+.headerdua nav ul {
+	position:fixed;
+	background-color:#fff;
+	width:100%;
+	height:60px;
+	
+}
+.headerempat .bagian .kilimanjaro button {
+	margin-top:38px;
+	background-color:#006699;
+	padding:8px;
+	
+}
+.headerdua nav ul li {
+	float:left;
+	background-color:#fff;
+	display:inline;
+}
+.headerdua nav ul li a{
+	line-height:60px;
+	padding: 0 10px;
+color:#0d0d0d;	}
+.headerempat .bagian .kilimanjaro h1 {
+	
+	font-size:58px;
+	color:#006699;
+}
+.headerdua nav ul li a:hover {
+	background-color:#f2f2f2;
+	padding:14px;
+	
+	
+}
+.headerempat .bagian {
+	float:left;
+	background-image: url('q.png');
+	min-height:400px;
+	background-attachment:fixed;
+	background-size:cover;
+	background-repeat:no-repeat;	
+}
+.headerempat .bagian .kilimanjaro {
+	padding-top:200px;
+	width:29%;
+	height:400px;
+	padding:100px;
+	background-attachment:fixed;
+	
+}
+.headerempat .bagian .kilimanjaro p {
+	
+	
+	
+	padding-top:20px;
+	font-size:21px;
+	color:#006699;
+	
+	
+}
